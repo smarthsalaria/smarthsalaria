@@ -18,7 +18,7 @@
 ## ⚙️ Technologies I’ve Worked With
 - **Energy Systems:** EMS / HEMS • PPC • ESS  
 - **Automation & Control:** SCADA • PLC • HMI
-- **Infra:** Linux • Networking * RAID • REDUNDANCY
+- **Infra:** Linux • Networking • RAID • REDUNDANCY
 - **Protocols:** Modbus • IEC 104 • IEC 61850  
 
 ---
