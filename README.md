@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Yo! I'm Smarth Salaria 😄
 
 🧑‍💻 I code things, break things, and fix them again.  
