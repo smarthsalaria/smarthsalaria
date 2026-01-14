@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**smarthsalaria/smarthsalaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Yo! I'm Smarth Salaria 😄
 
-Here are some ideas to get you started:
+🧑‍💻 I code things, break things, and fix them again.  
+🎯 **Currently learning:** Machine Learning  
+⚡ **Currently working as:** EMS System Engineer (Energy Sector)  
+🔥 **Interested in:** AI • Web Development • Energy Systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tools I Use
+- **Languages:** Python • Java • SQL 
+- **Web:** React / Next.js • Node.js
+- **Tools:** Git • GitHub
+
+---
+
+## ⚙️ Technologies I’ve Worked With
+- **Energy Systems:** EMS / HEMS • PPC • ESS  
+- **Automation & Control:** SCADA • PLC • HMI  
+- **Protocols:** Modbus • IEC 104 • IEC 61850  
+
+---
+
+## 📫 Reach Me
+📧 smarthsalaria@gmail.com
